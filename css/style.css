@@ -1,0 +1,541 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+
+margin: 0 auto;
+padding: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+
+.container{
+   width: 100%;
+   max-width: 1920px;
+
+
+
+}
+
+.back-foto1{
+   
+   width: 100%;
+
+
+
+
+
+}
+
+
+.text1{
+
+     font-size: 50px;
+     font-weight: 800;
+     color:white;
+     margin: -750px 0px 0px 750px;
+     text-shadow: black;
+
+
+}
+
+.text2{
+
+    font-size: 25px;
+    font-weight: 800;
+    color:grey;
+    margin: 0px 0px 0px 765px;
+    text-shadow: black;
+
+
+}
+
+.button1{
+    display: inline-block;
+    margin: 100px 0px 0px 600px;
+
+
+
+}
+
+
+.button2{
+
+    display: inline-block;
+    margin: 0px 0px 0px 100px;
+
+
+}
+
+.btn1{
+    color: grey;
+    font-size: 18px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: white;
+    text-decoration: none;
+    padding: 15px 35px;
+
+   
+
+
+}
+
+
+.btn2{
+
+    color: white;
+    font-size: 18px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: grey;
+    text-decoration: none;
+    padding: 15px 35px;
+
+
+
+
+}
+
+.line{
+margin: 500px 0px 0px 0px;
+height: 50px;
+width: 100%;
+background-color: lightseagreen;
+color: grey;
+
+
+
+}
+
+
+.contact{
+
+  text-align: center;
+  margin: 100px 0px 0px 0px;
+
+
+
+}
+
+.form{
+    
+margin: 0px 0px 0px 0px;
+
+
+}
+input[type="date"]{
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 0px;
+    border: 2px solid grey;
+    background-color: transparent;
+    color:black;
+    padding: 15px 35px;
+
+
+
+
+}
+
+input[type="number"]{
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 0px;
+    border: 2px solid grey;
+    background-color: transparent;
+    color:black;
+    padding: 15px 35px;
+
+
+
+
+}
+
+input[type="button"]{
+
+
+     
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 0px;
+    border: 2px solid grey;
+    background-color: white;
+    color:black;
+    padding: 15px 40px;
+    cursor: pointer;
+
+
+
+}
+
+
+
+
+
+
+.text3{
+
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+    text-shadow: black;
+
+
+
+
+
+
+}
+
+
+.text-zag1{
+    
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+    text-shadow: black;
+   
+    
+    
+}
+
+
+.line2{
+
+    margin: 10px 0px 0px 575px;
+    height: 5px;
+    width: 40%;
+    border-radius: 3px;
+    background-color: lightseagreen;
+    color: grey;
+    
+
+
+
+}
+
+
+.box{
+    display: inline-block;
+    margin: 50px 0px 0px 300px;
+    height: 400px;
+    width: 500px;
+    border: 3px solid yellowgreen;
+    border-radius: 3px;
+
+
+
+
+
+}
+
+
+
+.box-foto1{
+     
+     height: 400px;
+     width: 500px;
+     
+
+
+
+}
+
+
+
+.text4{
+   
+    font-size: 18px;
+    font-weight: 800;
+    color:black;
+    margin: 20px 0px 0px 0px;
+     text-align: center;
+ 
+
+
+}
+
+.text-zag2{
+
+
+
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+    text-shadow: black;
+
+
+
+}
+
+
+
+
+.line3{
+
+    
+    margin: 10px 0px 0px 385px;
+    height: 5px;
+    width: 60%;
+    border-radius: 3px;
+    background-color: lightseagreen;
+    color: grey;
+
+
+}
+
+
+.lux-box{
+
+
+    display: inline-block;
+    margin: 50px 0px 0px 350px;
+    height: 676px;
+    width: 1200px;
+    border: 3px solid lightseagreen;
+    border-radius: 3px;
+
+
+
+
+
+
+}
+
+.text5{
+
+
+    font-size: 20px;
+    font-weight: 800;
+    color:black;
+    margin: 20px 0px 0px 0px;
+     text-align: center;
+
+
+
+}
+
+
+
+.line4{
+   margin: 100px 0px 0px 0px;
+   height: 500px;
+   width: 100%;
+   background-color: grey;
+   border: 3px solid lightseagreen;
+   border-radius: 3px;
+
+
+
+
+}
+
+.text-zag3{
+
+
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-align: left;
+    margin: 50px 0px 0px 300px;
+    text-shadow: white;
+
+
+
+
+}
+
+
+.text6{
+
+
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    text-align: left;
+    margin: 50px 0px 0px 300px;
+    text-shadow: white;
+    max-width: 500px;
+
+
+
+
+
+}
+
+.text-zag4{
+
+
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin: -320px 0px 0px  1100px;
+    text-shadow: white;
+    max-width: 500px;
+
+
+
+
+}
+
+.contact-form{
+
+
+ margin: 80px 0px 0px 1200px;
+ max-width: 500px;
+
+
+}
+input[type="text"]{
+
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: transparent;
+    color:white;
+    padding: 15px 35px;
+
+
+
+
+}
+
+input[type="tel"]{
+
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: transparent;
+    color:white;
+    padding: 15px 35px;
+    
+
+
+
+
+}
+.button3{
+
+
+
+  margin: 50px 0px 0px 1240px;
+
+
+}
+.btn4{
+
+
+    
+    font-weight: 800;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: white;
+    color:lightseagreen;
+    padding: 15px 35px;
+    text-decoration: none;
+
+}
+
+.box2{
+    display: inline-block;
+     margin: 100px 0px 0px 230px;
+     height: 200px;
+     width: 600px;
+     border: 2px solid lightseagreen;
+     font-size: 16px;
+     border-radius: 8px;
+     font-weight: 800;
+     background-color: transparent;
+     color:black;
+
+}
+
+
+.text-zag5{
+
+
+
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+    text-shadow: white;
+   
+
+
+}
+.text7{
+    margin: 20px 0px 0px 20px;
+
+
+
+
+}
+
+
+
+::-webkit-input-placeholder{
+
+    color:lightpink;
+}
+
+
+.underheader{
+
+height: 100px;
+width: 100%;
+background-color: grey;
+margin: 150px 0px 0px 0px;
+
+
+
+}
+
+.text8{
+    margin: -60px 0px 0px 100px;
+      color:white;
+      font-weight: 800;
+      font-size: 18px;
+
+     
+
+
+
+}
+
+.text9{
+
+    margin: -20px 0px 0px 825px;
+    color:white;
+    font-weight: 800;
+    font-size: 18px;
+
+    
+
+}
+
+.text10{
+
+    margin: -20px 0px 0px 1650px;
+    color:white;
+    font-weight: 800;
+    font-size: 18px;
+
+   
+
+}
